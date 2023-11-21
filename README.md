@@ -2,6 +2,7 @@
 Desafio complementario (CLASE 16)
 
 # Setup
+npm install / 
 npm start
 
 # DB
